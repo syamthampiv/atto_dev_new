@@ -1,0 +1,1 @@
+ALTER TABLE accreditation ALTER COLUMN notes TYPE character varying(2000);
